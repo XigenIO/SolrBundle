@@ -1,5 +1,5 @@
 {
-  "name": "xigen/solr-bundle",
+  "name": "xigen.io/solr-bundle",
   "type": "symfony-bundle",
   "description": "Symfony Solr integration bundle",
   "keywords": [
