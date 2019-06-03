@@ -1,5 +1,5 @@
 {
-  "name": "floriansemm/solr-bundle",
+  "name": "xigen/solr-bundle",
   "type": "symfony-bundle",
   "description": "Symfony Solr integration bundle",
   "keywords": [
